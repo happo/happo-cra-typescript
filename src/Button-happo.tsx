@@ -1,3 +1,5 @@
 import React from 'react';
 
-export default () => <button>Click me</button>;
+import Button from './Button';
+
+export default () => <Button>Click me</Button>;
